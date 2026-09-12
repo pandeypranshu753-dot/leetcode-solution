@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0011-container-with-most-water) |
+| [0040-combination-sum-ii](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0040-combination-sum-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -37,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0011-container-with-most-water) |
+## Backtracking
+|  |
+| ------- |
+| [0040-combination-sum-ii](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->
