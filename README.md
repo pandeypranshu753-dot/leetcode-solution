@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0011-container-with-most-water) |
 | [0040-combination-sum-ii](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0040-combination-sum-ii) |
+| [0739-daily-temperatures](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0739-daily-temperatures) |
 ## Two Pointers
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Simulation
@@ -62,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0836-rectangle-overlap) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
