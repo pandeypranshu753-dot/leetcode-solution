@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0047-permutations-ii) |
+| [0090-subsets-ii](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0090-subsets-ii) |
 | [0739-daily-temperatures](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0739-daily-temperatures) |
 | [0896-monotonic-array](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0896-monotonic-array) |
 ## Two Pointers
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0077-combinations) |
+| [0090-subsets-ii](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0090-subsets-ii) |
 ## Stack
 |  |
 | ------- |
@@ -103,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0024-swap-nodes-in-pairs) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
