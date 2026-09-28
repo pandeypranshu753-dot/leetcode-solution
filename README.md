@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0047-permutations-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0090-subsets-ii) |
+| [0303-range-sum-query-immutable](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0303-range-sum-query-immutable) |
 | [0733-flood-fill](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0739-daily-temperatures) |
 | [0896-monotonic-array](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0896-monotonic-array) |
@@ -135,4 +136,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0133-clone-graph) |
 | [0841-keys-and-rooms](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0841-keys-and-rooms) |
 | [1791-find-center-of-star-graph](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/1791-find-center-of-star-graph) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0303-range-sum-query-immutable) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
