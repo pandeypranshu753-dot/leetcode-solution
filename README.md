@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0032-longest-valid-parentheses) |
 | [0844-backspace-string-compare](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Sliding Window
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0032-longest-valid-parentheses) |
 | [0739-daily-temperatures](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -171,8 +173,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0032-longest-valid-parentheses) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
