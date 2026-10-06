@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0678-valid-parenthesis-string) |
 | [0844-backspace-string-compare](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Sliding Window
 |  |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0011-container-with-most-water) |
 | [0678-valid-parenthesis-string](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Backtracking
 |  |
 | ------- |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Simulation
 |  |
@@ -181,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Dynamic Programming
 |  |
 | ------- |
