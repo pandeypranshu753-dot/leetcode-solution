@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0213-house-robber-ii) |
 | [0303-range-sum-query-immutable](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0303-range-sum-query-immutable) |
+| [0416-partition-equal-subset-sum](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0416-partition-equal-subset-sum) |
 | [0733-flood-fill](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0739-daily-temperatures) |
 | [0896-monotonic-array](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0896-monotonic-array) |
@@ -211,9 +212,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0063-unique-paths-ii) |
 | [0198-house-robber](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0213-house-robber-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0416-partition-equal-subset-sum) |
 | [0678-valid-parenthesis-string](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0678-valid-parenthesis-string) |
 ## Combinatorics
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0062-unique-paths) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
