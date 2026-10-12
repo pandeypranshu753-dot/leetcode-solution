@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0213-house-robber-ii) |
 | [0303-range-sum-query-immutable](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0303-range-sum-query-immutable) |
 | [0416-partition-equal-subset-sum](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0494-target-sum) |
 | [0733-flood-fill](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0739-daily-temperatures) |
 | [0896-monotonic-array](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0896-monotonic-array) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0077-combinations) |
 | [0090-subsets-ii](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0090-subsets-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0301-remove-invalid-parentheses) |
+| [0494-target-sum](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0494-target-sum) |
 ## Stack
 |  |
 | ------- |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0213-house-robber-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0494-target-sum) |
 | [0678-valid-parenthesis-string](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0678-valid-parenthesis-string) |
 ## Combinatorics
 |  |
@@ -236,10 +239,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0494-target-sum) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0494-target-sum) |
 ## Enumeration
 |  |
 | ------- |
