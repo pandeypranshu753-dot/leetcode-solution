@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Two Pointers
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0494-target-sum) |
 | [0678-valid-parenthesis-string](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0678-valid-parenthesis-string) |
+| [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 ## Combinatorics
 |  |
 | ------- |
@@ -251,11 +253,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0494-target-sum) |
+| [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0494-target-sum) |
+| [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 ## Enumeration
 |  |
 | ------- |
