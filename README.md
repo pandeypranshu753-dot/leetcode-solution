@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0739-daily-temperatures) |
 | [0896-monotonic-array](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0896-monotonic-array) |
 | [1034-coloring-a-border](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/1034-coloring-a-border) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0733-flood-fill) |
 | [1034-coloring-a-border](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/1034-coloring-a-border) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/1277-count-square-submatrices-with-all-ones) |
 ## Graph Theory
 |  |
 | ------- |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0518-coin-change-ii) |
 | [0678-valid-parenthesis-string](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0678-valid-parenthesis-string) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 ## Combinatorics
 |  |
