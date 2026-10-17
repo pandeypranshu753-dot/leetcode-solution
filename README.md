@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0213-house-robber-ii) |
 | [0303-range-sum-query-immutable](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0303-range-sum-query-immutable) |
+| [0322-coin-change](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0494-target-sum) |
 | [0733-flood-fill](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0733-flood-fill) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0200-number-of-islands) |
 | [0301-remove-invalid-parentheses](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0301-remove-invalid-parentheses) |
+| [0322-coin-change](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0322-coin-change) |
 | [0733-flood-fill](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0841-keys-and-rooms) |
 | [1034-coloring-a-border](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/1034-coloring-a-border) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0494-target-sum) |
 | [0678-valid-parenthesis-string](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0678-valid-parenthesis-string) |
@@ -251,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0494-target-sum) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
@@ -274,4 +278,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
