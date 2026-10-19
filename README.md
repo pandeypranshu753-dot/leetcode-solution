@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-monotonic-array](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0896-monotonic-array) |
 | [1034-coloring-a-border](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/1034-coloring-a-border) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0047-permutations-ii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0162-find-peak-element) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Breadth-First Search
 |  |
