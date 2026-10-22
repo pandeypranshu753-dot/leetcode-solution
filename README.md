@@ -327,4 +327,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0124-binary-tree-maximum-path-sum) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
