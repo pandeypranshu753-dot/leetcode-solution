@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0072-edit-distance) |
 | [0301-remove-invalid-parentheses](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0301-remove-invalid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0316-remove-duplicate-letters) |
+| [0392-is-subsequence](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0392-is-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0647-palindromic-substrings) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0011-container-with-most-water) |
+| [0392-is-subsequence](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0647-palindromic-substrings) |
 | [0844-backspace-string-compare](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0844-backspace-string-compare) |
 ## Greedy
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0322-coin-change) |
+| [0392-is-subsequence](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0516-longest-palindromic-subsequence) |
