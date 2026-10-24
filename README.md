@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0011-container-with-most-water) |
 | [0040-combination-sum-ii](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0047-permutations-ii) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0011-container-with-most-water) |
+| [0042-trapping-rain-water](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0042-trapping-rain-water) |
 | [0392-is-subsequence](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0647-palindromic-substrings) |
 | [0844-backspace-string-compare](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0844-backspace-string-compare) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0316-remove-duplicate-letters) |
 | [0678-valid-parenthesis-string](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0739-daily-temperatures) |
@@ -165,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0316-remove-duplicate-letters) |
 | [0739-daily-temperatures](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0739-daily-temperatures) |
 ## Sorting
@@ -269,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0062-unique-paths) |
