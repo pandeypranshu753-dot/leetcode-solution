@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0739-daily-temperatures) |
 | [0896-monotonic-array](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0896-monotonic-array) |
+| [0922-sort-array-by-parity-ii](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0922-sort-array-by-parity-ii) |
 | [1034-coloring-a-border](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/1034-coloring-a-border) |
 | [1254-number-of-closed-islands](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/1254-number-of-closed-islands) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0647-palindromic-substrings) |
 | [0844-backspace-string-compare](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0844-backspace-string-compare) |
+| [0922-sort-array-by-parity-ii](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0922-sort-array-by-parity-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0047-permutations-ii) |
+| [0922-sort-array-by-parity-ii](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0922-sort-array-by-parity-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
