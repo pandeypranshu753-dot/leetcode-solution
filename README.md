@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0079-word-search) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0133-clone-graph](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0200-number-of-islands) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0032-longest-valid-parentheses) |
 | [0072-edit-distance](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0072-edit-distance) |
+| [0079-word-search](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0079-word-search) |
 | [0301-remove-invalid-parentheses](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0301-remove-invalid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0316-remove-duplicate-letters) |
 | [0392-is-subsequence](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0392-is-subsequence) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0047-permutations-ii) |
 | [0055-jump-game](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0063-unique-paths-ii) |
+| [0079-word-search](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0090-subsets-ii) |
 | [0120-triangle](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0120-triangle) |
@@ -144,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0077-combinations) |
+| [0079-word-search](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0090-subsets-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0301-remove-invalid-parentheses) |
 | [0494-target-sum](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0494-target-sum) |
@@ -255,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0063-unique-paths-ii) |
+| [0079-word-search](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0695-max-area-of-island) |
