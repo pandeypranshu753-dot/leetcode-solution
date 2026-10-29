@@ -1,25 +1,25 @@
 class Solution {
 public:
     vector<vector<int>>result;
-    void f(vector<int>&cand,int t,int idx,vector<int>&subset){
-        if(t==0){
+    void solve(vector<int>&arr,int target,int idx,vector<int>&subset){
+        if(target==0){
             result.push_back(subset);
             return;
         }
-        for(int i=idx;i<cand.size();i++){
-            if(i>idx && cand[i]==cand[i-1])continue;
-            if(cand[i]>t)break;
-            subset.push_back(cand[i]);
-            f(cand,t-cand[i],i+1,subset);
+        for(int i=idx;i<arr.size();i++){
+            if(i>idx && arr[i]==arr[i-1])continue;
+            if(arr[i]>target)break;
+            subset.push_back(arr[i]);
+            solve(arr,target-arr[i],i+1,subset);
             subset.pop_back();
         }
     }
 
-    vector<vector<int>> combinationSum2(vector<int>& candidates, int target) {
-        sort(candidates.begin(),candidates.end());
+    vector<vector<int>> combinationSum2(vector<int>& arr, int target) {
+        sort(arr.begin(),arr.end());
         vector<int>subset;
         result.clear();
-        f(candidates,target,0,subset);
+        solve(arr,target,0,subset);
         return result;
         
     }
