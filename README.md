@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0416-partition-equal-subset-sum) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0463-island-perimeter](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0463-island-perimeter) |
 | [0494-target-sum](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0518-coin-change-ii) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0062-unique-paths) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0836-rectangle-overlap](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0836-rectangle-overlap) |
 | [2409-count-days-spent-together](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/2409-count-days-spent-together) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0047-permutations-ii) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0905-sort-array-by-parity](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0922-sort-array-by-parity-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/2089-find-target-indices-after-sorting-array) |
