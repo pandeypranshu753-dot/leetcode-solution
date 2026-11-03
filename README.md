@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0124-binary-tree-maximum-path-sum) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Depth-First Search
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-keys-and-rooms](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0841-keys-and-rooms) |
 | [1034-coloring-a-border](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/1034-coloring-a-border) |
 | [1254-number-of-closed-islands](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/1254-number-of-closed-islands) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0090-subsets-ii) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -256,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0162-find-peak-element) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Breadth-First Search
@@ -272,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-keys-and-rooms](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0841-keys-and-rooms) |
 | [1034-coloring-a-border](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/1034-coloring-a-border) |
 | [1254-number-of-closed-islands](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/1254-number-of-closed-islands) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Matrix
 |  |
@@ -298,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0303-range-sum-query-immutable) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -347,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/1143-longest-common-subsequence) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Combinatorics
@@ -419,4 +426,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0051-n-queens](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0052-n-queens-ii) |
+## Binary Lifting
+|  |
+| ------- |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/1483-kth-ancestor-of-a-tree-node) |
 <!---LeetCode Topics End-->
