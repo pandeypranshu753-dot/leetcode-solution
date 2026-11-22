@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0063-unique-paths-ii) |
 | [0079-word-search](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0047-permutations-ii) |
+| [0056-merge-intervals](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0056-merge-intervals) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0905-sort-array-by-parity](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0922-sort-array-by-parity-ii) |
@@ -434,4 +436,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/1483-kth-ancestor-of-a-tree-node) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
