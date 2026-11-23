@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1034-coloring-a-border](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/1034-coloring-a-border) |
 | [1254-number-of-closed-islands](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/1254-number-of-closed-islands) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [1352-product-of-the-last-k-numbers](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/1352-product-of-the-last-k-numbers) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0062-unique-paths) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0836-rectangle-overlap](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0836-rectangle-overlap) |
+| [1352-product-of-the-last-k-numbers](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/1352-product-of-the-last-k-numbers) |
 | [2409-count-days-spent-together](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/2409-count-days-spent-together) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -310,11 +312,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0303-range-sum-query-immutable) |
+| [1352-product-of-the-last-k-numbers](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/1352-product-of-the-last-k-numbers) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0303-range-sum-query-immutable) |
+| [1352-product-of-the-last-k-numbers](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/1352-product-of-the-last-k-numbers) |
 ## Union-Find
 |  |
 | ------- |
@@ -441,4 +445,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0056-merge-intervals) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
