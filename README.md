@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0133-clone-graph](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0133-clone-graph) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2409-count-days-spent-together](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/2409-count-days-spent-together) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/3841-palindromic-path-queries-in-a-tree) |
