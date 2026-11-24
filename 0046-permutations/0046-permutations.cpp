@@ -1,22 +1,27 @@
 class Solution {
 public:
-    vector<vector<int>>result;
-     void permutation(vector<int>&nums,int i,int n){
-        if(i==n){
-            result.push_back(nums);
-        return;
+     vector<vector<int>>result;
+     int n;
+     unordered_set<int>st;
+    void solve(vector<int>&temp,vector<int>& nums){
+        if(temp.size()==n){
+            result.push_back(temp);
+            return;
         }
-     
-     for(int j=i;j<=n;j++){
-        swap(nums[i],nums[j]);
-        permutation(nums,i+1,n);
-        swap(nums[i],nums[j]);
-     }
-     }
+        for(int i=0;i<n;i++){
+            if(st.find(nums[i])==st.end()){
+                temp.push_back(nums[i]);
+                st.insert(nums[i]);
+                solve(temp,nums);
+                temp.pop_back();
+                st.erase(nums[i]);
+            }
+        }
+    }
     vector<vector<int>> permute(vector<int>& nums) {
-        int m=nums.size();
-        permutation(nums,0,m-1);
-        
+         n=nums.size();
+        vector<int>temp;
+        solve(temp,nums);
         return result;
         
     }
