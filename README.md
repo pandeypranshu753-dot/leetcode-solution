@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Array
 |  |
 | ------- |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/3644-maximum-k-to-sort-a-permutation) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0836-rectangle-overlap) |
 | [1352-product-of-the-last-k-numbers](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/1352-product-of-the-last-k-numbers) |
 | [2409-count-days-spent-together](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/2409-count-days-spent-together) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3886-sum-of-sortable-integers](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/3886-sum-of-sortable-integers) |
@@ -399,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3886-sum-of-sortable-integers](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/3886-sum-of-sortable-integers) |
 ## Binary Indexed Tree
 |  |
@@ -459,4 +463,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/1352-product-of-the-last-k-numbers) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
