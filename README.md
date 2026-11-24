@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0063-unique-paths-ii) |
+| [0078-subsets](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0090-subsets-ii) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0090-subsets-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0301-remove-invalid-parentheses) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0090-subsets-ii) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
