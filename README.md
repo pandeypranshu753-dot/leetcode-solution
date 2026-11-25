@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0207-course-schedule) |
 | [0463-island-perimeter](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0463-island-perimeter) |
+| [0547-number-of-provinces](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0841-keys-and-rooms) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0322-coin-change) |
 | [0463-island-perimeter](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0463-island-perimeter) |
+| [0547-number-of-provinces](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0841-keys-and-rooms) |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0207-course-schedule) |
+| [0547-number-of-provinces](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0841-keys-and-rooms) |
 | [1791-find-center-of-star-graph](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/1791-find-center-of-star-graph) |
 ## Design
@@ -341,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0695-max-area-of-island) |
 | [1254-number-of-closed-islands](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
