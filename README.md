@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0841-keys-and-rooms) |
 | [1034-coloring-a-border](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/1034-coloring-a-border) |
 | [1254-number-of-closed-islands](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/1254-number-of-closed-islands) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0841-keys-and-rooms) |
 | [1034-coloring-a-border](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/1034-coloring-a-border) |
 | [1254-number-of-closed-islands](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/1254-number-of-closed-islands) |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0841-keys-and-rooms) |
 | [1791-find-center-of-star-graph](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/1791-find-center-of-star-graph) |
 ## Design
@@ -351,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0695-max-area-of-island) |
+| [0785-is-graph-bipartite](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0785-is-graph-bipartite) |
 | [1254-number-of-closed-islands](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Bracket Sequences
@@ -483,4 +487,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3411-maximum-subarray-with-equal-products](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/3411-maximum-subarray-with-equal-products) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
