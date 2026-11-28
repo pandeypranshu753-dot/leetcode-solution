@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0032-longest-valid-parentheses) |
+| [0067-add-binary](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0079-word-search) |
 | [0301-remove-invalid-parentheses](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0301-remove-invalid-parentheses) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0067-add-binary) |
 | [0844-backspace-string-compare](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0844-backspace-string-compare) |
 ## Math
 |  |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0062-unique-paths) |
+| [0067-add-binary](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0067-add-binary) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0836-rectangle-overlap](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0836-rectangle-overlap) |
 | [1352-product-of-the-last-k-numbers](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/1352-product-of-the-last-k-numbers) |
@@ -277,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/0090-subsets-ii) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/pandeypranshu753-dot/leetcode-solution/tree/master/1483-kth-ancestor-of-a-tree-node) |
